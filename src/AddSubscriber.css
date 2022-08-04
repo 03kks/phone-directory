@@ -1,11 +1,11 @@
 .subscriber-form {
     margin-top: 30px;
 }
-
+  
 .label-control {
-    color: #808080;
-    font-size: 1.15rem;
-    margin-right: 15px;
+   color: #808080;
+   font-size: 1.15rem;
+   margin-right: 15px;
 }
 
 .input-control {
@@ -25,12 +25,14 @@
     margin-right: 10px;
     margin-bottom: 20px;
 }
-
+  
 .subscriber-to-add-heading {
     color: #0a4f75;
     font-weight: 600;
 }
-
+  
 .subscriber-info {
     color: #808080;
-} 
+}
+  
+  
